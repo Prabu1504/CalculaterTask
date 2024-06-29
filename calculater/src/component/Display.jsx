@@ -44,7 +44,7 @@ const Display = ({ input, setInput, answer }) => {
               name="value"
               className="input"
               value={answer}
-              disabled
+              disableds
             />
           </>
         )}
